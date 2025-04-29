@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaysalHT
-- 👀 I’m interested in Video Gaming
+- 👋 Hi, I’m Arafat Hossain
+- 👀 I’m passionate to coding
 - 🌱 I’m currently studying Computer Science at Green University of Bangladesh
-- 💞️ I’m trying to increase my knowledge of computer software and hardware
+- 💞️ I’m trying to increase my knowledge of computer software.
